@@ -4,7 +4,7 @@ const { text } = require('stream/consumers');
  
  
  
-test('@Web Client App login', async ({ page }) => {
+test('@Web Client App login1', async ({ page }) => {
    //js file- Login js, DashboardPage
    const email = "alekhaswain7@gmail.com";
    const productName = 'ADIDAS ORIGINAL';
